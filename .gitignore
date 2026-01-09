@@ -218,5 +218,7 @@ __marimo__/
 exp_results
 eval_results
 models
-data/
+*.parquet
 wandb
+
+*.whl

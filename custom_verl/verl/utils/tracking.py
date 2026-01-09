@@ -78,8 +78,8 @@ class Tracking:
 
             import swanlab
 
-            SWANLAB_API_KEY = os.environ.get("SWANLAB_API_KEY", "0yJJ6CZtJmuvCHFC0mGOm")
-            SWANLAB_LOG_DIR = os.environ.get("SWANLAB_LOG_DIR", "/mnt/bn/med-mllm-lfv2/hwang/codes/my-verl/wandb/")
+            SWANLAB_API_KEY = os.environ.get("SWANLAB_API_KEY", "")
+            SWANLAB_LOG_DIR = os.environ.get("SWANLAB_LOG_DIR", "")
             SWANLAB_MODE = os.environ.get("SWANLAB_MODE", "cloud")
             if SWANLAB_API_KEY:
                 swanlab.login(SWANLAB_API_KEY)  # NOTE: previous login information will be overwritten
