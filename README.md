@@ -118,8 +118,18 @@ You can download the trained checkpoints for both the SFT and RL stages from Hug
 ---
 
 ## 📝 Citation
-If you use **CurioSFT** in your research, please cite our paper (TODO)
-
+If you use **CurioSFT** in your research, please kindly cite our paper:
+```
+@misc{curioSFT,
+      title={Learning While Staying Curious: Entropy-Preserving Supervised Fine-Tuning via Adaptive Self-Distillation for Large Reasoning Models}, 
+      author={Hao Wang and Hao Gu and Hongming Piao and Kaixiong Gong and Yuxiao Ye and Xiangyu Yue and Sirui Han and Yike Guo and Dapeng Wu},
+      year={2026},
+      eprint={2602.02244},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2602.02244}, 
+}
+```
 
 ## 📮 Contact
 For questions or feedback, please feel free to open an issue or contact hao.wang@my.cityu.edu.hk.
