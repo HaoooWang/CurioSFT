@@ -19,7 +19,7 @@ The standard post-training recipe for large reasoning models—Supervised Fine-T
 
 1. **Clone the repository**
    ```bash
-   git clone https://anonymous.4open.science/r/CurioSFT
+   git clone https://github.com/HaoooWang/CurioSFT.git
    cd CurioSFT
    ```
 2. **Create Conda Environment**
@@ -122,4 +122,4 @@ If you use **CurioSFT** in your research, please cite our paper (TODO)
 
 
 ## 📮 Contact
-For questions or feedback, please feel free to open an issue.
+For questions or feedback, please feel free to open an issue or contact hao.wang@my.cityu.edu.hk.
