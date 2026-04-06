@@ -18,7 +18,10 @@
 
 </div>
 
----
+## News
+
+- **[2026-04]** Our paper **CurioSFT** has been accepted to **ACL 2026 Main Conference**. Keep Going!
+
 
 ## Introduction
 
